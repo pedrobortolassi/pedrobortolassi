@@ -32,7 +32,7 @@ Sou estudante de **Ciência da Computação** na **Escola de Engenharia de Pirac
 
 ## 🌍 Idiomas
 - 🇺🇸 Inglês: Avançado (C1)
-- 🇪🇸 Espanhol: Básico (B2)
+- 🇪🇸 Espanhol: Básico 
 - 🇧🇷 Português: Fluente
 
 ---
